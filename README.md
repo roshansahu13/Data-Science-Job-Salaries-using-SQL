@@ -1,2 +1,3 @@
-# Data-Science-Job-Salaries-using-SQL
-SQL-based analysis of data science job salaries to explore trends, experience levels, top-paying roles, and remote work insights.
+This project focuses on analyzing Data Science job salary data using SQL to uncover meaningful insights about salary trends and job characteristics in the data industry. The analysis explores how salaries vary across different experience levels, job roles, employment types, and work years, with a special focus on remote work trends.
+
+Through a series of SQL queries, the project identifies top-paying data science roles, calculates average salaries in USD, examines job distribution over time, and filters jobs based on location and salary thresholds. This project helps in understanding current market trends and provides valuable insights for aspiring data professionals.
